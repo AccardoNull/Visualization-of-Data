@@ -4,7 +4,9 @@ A three-phase interactive visualization built with D3.js to display and explore 
 - On hover, highlight the language by bolding its name and giving it a yellow background.
 - Shift all influenced languages slightly to the right.
 - Shift all influencing languages slightly to the left.
+  
 Usage:
+
 The code as provided cannot be use in the browser as if they were standalone HTML pages on the filesystem. You need to install a little trivial webserver, with
 the files for the project served.
 
