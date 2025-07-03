@@ -14,8 +14,3 @@ To view the `index.html` in the browser, use the following URL:
 
 `localhost:8080/index.html`
 
-
-* Use either `Firefox` or `Chrome`.
-* Find the `Developer Tools` in the browser as you will want to make good use the various tools it provides for working with JavaScript and the DOM.
-* Most `Developer Tools` plugins have a `Network` tab, and this almost always has something like `Disable cache`. Ensure the network cache is disabled when developing code -- without doing this, you will get very frustrated when changes to your code are not reflected in the browser (i.e if the cache is still enabled, then cached versions of your scripts will be reloaded and reloaded without your changes).
-
