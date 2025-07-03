@@ -1,4 +1,10 @@
-
+A three-phase interactive visualization built with D3.js to display and explore data about programming languages, their paradigms, creators, and influences. The dataset is provided in JSON format and includes both a smaller and a larger file with structured information about various programming languages.
+- Render each programming language from the JSON file along with its first paradigm. No interactivity is required.
+- Enhance the display to show up to three paradigms per language. Implement an on-click event to display the language's creator and year of creation.
+- On hover, highlight the language by bolding its name and giving it a yellow background.
+- Shift all influenced languages slightly to the right.
+- Shift all influencing languages slightly to the left.
+Usage:
 The code as provided cannot be use in the browser as if they were standalone HTML pages on the filesystem. You need to install a little trivial webserver, with
 the files for the project served.
 
